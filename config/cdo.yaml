@@ -1,0 +1,4 @@
+service_account_file: private/alpha.json
+
+google_sheet:
+  id: 1YGTp0hhEfce6FVKVznHSUzhuXeKSPdhCE8sKlWn-o2U

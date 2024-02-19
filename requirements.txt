@@ -1,0 +1,4 @@
+google-api-python-client==2.111.0
+pandas==1.5.3
+PyYAML==6.0.1
+requests==2.31.0
